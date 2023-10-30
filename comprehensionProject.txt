@@ -1,0 +1,31 @@
+Comprehension du sujet de projet Motherload Android :
+
+--------------------------- Fonctionnalité -----------------
+1 - Multilingue
+2 - Tout format d'écran
+4 - Tolerence aux connexion
+5 - utilisation sobre du serveur
+6 - Utilisation réelle de la localisation
+7 - design
+
+
+---------------------------- Tâche à executer ---------------
+
+le but du projet c'est de trouver le Motherload, il doit être défini à une profondeur inconnue.
+
+A la position i du joueur, il peut creuser un trou (virtuellement).
+
+A chaque creuser le joueur augmente sa profondeur d'1m, il peut
+y trouver des minéraux, artefacts anciens et précieux à déterrer s'il à de la chance (la nature de l'objet depends de la position du joueur).
+
+le trou est perdu s'il se deplace trop loin de ce dernier disont à plus 7m du trou par exemple.
+
+il ne peut pas creuser plus de 10s de suite c'est à dire il creuse consecutivement pas plus de 10s.
+
+au debut la pioche du joueur ne lui permet de creuser profondement cad pas plus de 5m de profondeur.
+
+Cependant il peut gagner des objets solide à partir des minéreaux obtenu.
+
+il peut proposer la vente de ces mineraux et artefact pour une certaines somme d'argent et inversement il peut acheter des objet pour un certain montant dont il detient.
+
+il faut se connecter sur le serveur api du prof.

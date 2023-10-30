@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Chat M1</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="msg_button">Créer</string>
+    <string name="msg_supp_button">Supprimer</string>
+    <string name="msg_title">Entrez un titre</string>
+    <string name="msg_author">Entrez un auteur</string>
+    <string name="btn_register">Confirmer</string>
+    <string name="frag_first">lorem_ipsum</string>
+    <string name="frag_second">lorem_ipsum</string>
+</resources>
